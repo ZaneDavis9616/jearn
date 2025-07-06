@@ -1,0 +1,29 @@
+# Node
+node_modules/
+dist/
+.env
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+logs/
+
+# Build output
+build/
+
+# Others
+.idea/
+*.local
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw? 
